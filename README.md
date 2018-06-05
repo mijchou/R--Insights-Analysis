@@ -1,2 +1,3 @@
-# R--Insights-Analysis
-Data sets with ideas of insights explorations.
+# R--Insights N Analysis
+
+Along the rise of Data Science, industries have come to realise the potential of massive data that has been left unused in their warehouses. But particularly, how? What kinds of insights could be hidden in the data long still in the messy database? Most importantly, how can we maximise the benifits from what we (could) find? As we have seen, companies start to invest time/money/efforts in seeking data specialists -- even before knowing the target outcome they intend to transform the data into. As a result, data specilists are often given the massive data set with one task: **Mine these messy data and find out something useful that makes profits!** This is where the curiosity and creativity comes into play.
